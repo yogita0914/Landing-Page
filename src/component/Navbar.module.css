@@ -1,0 +1,34 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 100px;
+    color: #fff;
+  }
+  
+  .nav-logo {
+    font-size: 42px;
+    font-weight: bold;
+  }
+  
+  .nav-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 15px;
+    gap: 40px;
+    font-weight: bold;
+  }
+  
+  .nav-menu li {
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  .nav-contact {
+    border-radius: 50px;
+    padding: 10px 28px;
+    background: #fff;
+    color: #262626;
+  }
+  
