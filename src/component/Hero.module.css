@@ -1,6 +1,6 @@
 .heroContainer {
     position: relative;
-    height: 60vh; 
+    height: 80vh; 
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -9,7 +9,7 @@
   }
   
   .heroText {
-    color: #000;
+    color: #fff;
     font-size: 18px;
     position: absolute;
     bottom: 20px;
@@ -23,7 +23,7 @@
     padding: 10px 20px;
     border-radius: 5px;
     font-size: 14px;
-    background-color: #000;
+    background-color: #0eb348;
     color: #fff;
     border: none;
     cursor: pointer;
@@ -35,7 +35,7 @@
     right: 20px;
     padding: 10px 20px;
     border-radius: 5px;
-    background-color: #000;
+    background-color: #0eb348;
     color: #fff;
     border: none;
     cursor: pointer;
